@@ -5,7 +5,9 @@ I am soon-to-be graduate from the italian bootcamp called Develhope!
 <h3 align="center"> I worked on several group projects with my team!</h3>
 This is a simple clone website aimed at practicing our styling and dom manipulation skills using only basic CSS, HTML and JavaScript
 https://github.com/Francesca-Bonato/Electonic-Arts-clone-project
-
+<br>
+<br>
+<br>
 (W.I.P)
 This is our most ambitious project yet, it's a website meant for cycling enthusiast to discuss about cycling trails and bikes in general.
 We created it using React.js and its React-router-dom library, TailwindCSS, Figma for the design, NodeJs and Postgresql for database and backend.

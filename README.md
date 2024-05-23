@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Daniele De Lise</h1>
 <h3 align="center">A passionate Fullstack Web Developer from Naples, Italy</h3>
 
-- 📫 How to reach me **danieledelise12@gmail.com**
+I am soon-to-be graduate from the italian bootcamp called Develhope!
+I worked on several group projects with my team:
+This is a simple clone website aimed at practicing our styling and dom manipulation skills using only basic CSS, HTML and JavaScript
+https://github.com/Francesca-Bonato/Electonic-Arts-clone-project
+
+(W.I.P)
+This is our most ambitious project yet, it's a website meant for cycling enthusiast to discuss about cycling trails and bikes in general.
+We created it using React.js and its React-router-dom library, TailwindCSS, Figma for the design, NodeJs and Postgresql for database and backend.
+https://github.com/Francesca-Bonato/ByCycle-project
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

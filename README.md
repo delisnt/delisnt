@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack Web Developer from Naples, Italy</h3>
 
 I am soon-to-be graduate from the italian bootcamp called Develhope!
-I worked on several group projects with my team:
+<h3 align="center" I worked on several group projects with my team!</h3>
 This is a simple clone website aimed at practicing our styling and dom manipulation skills using only basic CSS, HTML and JavaScript
 https://github.com/Francesca-Bonato/Electonic-Arts-clone-project
 

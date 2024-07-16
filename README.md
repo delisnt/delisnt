@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniele De Lise</h1>
 <h3 align="center">A passionate Fullstack Web Developer from Naples, Italy</h3>
+<h3 align="center">Currently working for Weirdoo Srl </h3>
 
-I am soon-to-be graduate from the italian bootcamp called Develhope!
+
+
+I am a graduate from the italian bootcamp called Develhope!
 <h3 align="center"> I worked on several group projects with my team!</h3>
 This is a simple clone website aimed at practicing our styling and dom manipulation skills using only basic CSS, HTML and JavaScript
 https://github.com/Francesca-Bonato/Electonic-Arts-clone-project

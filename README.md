@@ -26,7 +26,7 @@ https://github.com/Francesca-Bonato/ByCycle-project
 
 
 
-<h3 align="center">Currently working for Weirdoo Srl </h3>
+<h3 align="center">Currently working at IdeaSolutions Srl</h3>
 
 
 <!--
